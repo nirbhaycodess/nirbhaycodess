@@ -31,3 +31,14 @@ Currently, I'm focused on developing my skills in the MERN stack while strengthe
 * Contribute to meaningful open-source projects
 
 I believe consistent learning, curiosity, and hands-on experience are the keys to growth. Every project is an opportunity to learn something new and build better solutions.
+
+## Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/nirbhay-yadav-202535ys/
+
+📧 Email: [nirbhayyadav64152@gmail.com](mailto:nirbhayyadav64152@gmail.com)
+
+📱 Phone: +91 9389504493
+
+I'm always open to connecting with fellow developers, collaborating on projects, and exploring new opportunities in software development.
+
