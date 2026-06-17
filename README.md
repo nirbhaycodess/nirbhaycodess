@@ -1,44 +1,36 @@
 # Hi, I'm Nirbhay Yadav 👋
 
-I'm a Computer Science student and aspiring Full-Stack Developer with a strong interest in building modern web applications and solving programming challenges.
+### Full-Stack Developer & Computer Science Student
 
-Currently, I'm focused on developing my skills in the MERN stack while strengthening my understanding of Data Structures and Algorithms using C++. I enjoy turning ideas into functional products and continuously improving my problem-solving abilities through hands-on projects and coding practice.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirbhay-yadav-202535ys/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nirbhayyadav64152@gmail.com)
 
-## What I'm Working On
+---
 
-* Building full-stack web applications with MongoDB, Express.js, React.js, and Node.js
-* Improving DSA and competitive programming skills in C++
-* Learning software development best practices and system design fundamentals
-* Exploring open-source contributions and collaborative development
+## 🚀 About Me
 
-## Tech Stack
+I am a Computer Science student at Invertis University specializing in the **MERN stack** and **Data Structures & Algorithms**. I focus on building scalable web applications and exploring **AI/ML** integrations.
 
-**Frontend:** HTML, CSS, JavaScript, React.js
+- 🎯 **Current Focus:** Full-Stack Web Development & Algorithmic Problem Solving
+- 🧠 **Interests:** AI/ML Application Integration & Custom API Development
 
-**Backend:** Node.js, Express.js
+---
 
-**Database:** MongoDB
+## 🛠️ Technical Skills
 
-**Programming Languages:** C++, JavaScript
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C++, JavaScript (ES6+), HTML5, CSS3 |
+| **Frontend** | React.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
-**Tools:** Git, GitHub, VS Code, Postman, REST APIs
+---
 
-## Goals
+## 📞 Connect With Me
 
-* Develop impactful real-world projects
-* Become proficient in full-stack development
-* Strengthen algorithmic thinking and problem-solving
-* Contribute to meaningful open-source projects
-
-I believe consistent learning, curiosity, and hands-on experience are the keys to growth. Every project is an opportunity to learn something new and build better solutions.
-
-## Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/nirbhay-yadav-202535ys/
-
-📧 Email: [nirbhayyadav64152@gmail.com](mailto:nirbhayyadav64152@gmail.com)
-
-📱 Phone: +91 9389504493
-
-I'm always open to connecting with fellow developers, collaborating on projects, and exploring new opportunities in software development.
+- **LinkedIn:** [linkedin.com/in/nirbhay-yadav-202535ys](https://www.linkedin.com/in/nirbhay-yadav-202535ys/)
+- **Email:** nirbhayyadav64152@gmail.com
+- **Phone:** +91 9389504493
 
