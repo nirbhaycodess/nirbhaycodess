@@ -1,50 +1,33 @@
-# Hi there! 👋
+# Hi, I'm Nirbhay Yadav 👋
 
-## I'm Nirbhay, a passionate learner exploring Full-Stack Development and Data Structures & Algorithms (DSA)
+I'm a Computer Science student and aspiring Full-Stack Developer with a strong interest in building modern web applications and solving programming challenges.
 
-### 🚀 About Me
+Currently, I'm focused on developing my skills in the MERN stack while strengthening my understanding of Data Structures and Algorithms using C++. I enjoy turning ideas into functional products and continuously improving my problem-solving abilities through hands-on projects and coding practice.
 
-- 🎓 Currently delving deep into **Full-Stack Development** with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
-- 💡 Strengthening my problem-solving skills by mastering **Data Structures and Algorithms** using **C++**.
-- 🌟 Enthusiastic about building scalable web applications and writing clean, efficient code.
-- 🌱 Constantly learning, experimenting, and growing.
+## What I'm Working On
 
-### 🛠️ Skills I'm Building
+* Building full-stack web applications with MongoDB, Express.js, React.js, and Node.js
+* Improving DSA and competitive programming skills in C++
+* Learning software development best practices and system design fundamentals
+* Exploring open-source contributions and collaborative development
 
-#### Full-Stack Development 🌐
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+## Tech Stack
 
-#### Programming & DSA 💻
-- **Languages**: C++, JavaScript
-- **Concepts**: Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, and more
+**Frontend:** HTML, CSS, JavaScript, React.js
 
-#### Tools & Technologies ⚙️
-- Git & GitHub
-- VS Code
-- Postman
-- REST APIs
+**Backend:** Node.js, Express.js
 
-### 📖 Current Learning Goals
+**Database:** MongoDB
 
-- Build real-world projects using the MERN stack
-- Solve competitive programming problems to enhance algorithmic thinking
-- Contribute to open-source projects
+**Programming Languages:** C++, JavaScript
 
-### 🌟 My Values
+**Tools:** Git, GitHub, VS Code, Postman, REST APIs
 
-- 💡 Continuous Learning
-- 🤝 Collaboration
-- 🚀 Growth Mindset
+## Goals
 
+* Develop impactful real-world projects
+* Become proficient in full-stack development
+* Strengthen algorithmic thinking and problem-solving
+* Contribute to meaningful open-source projects
 
----
-
-### ⭐ Fun Fact
-
-I'm on a journey to combine problem-solving with web development to create impactful digital experiences.
-
----
-
-Feel free to explore my repositories and join me on this exciting learning journey! 🚀
+I believe consistent learning, curiosity, and hands-on experience are the keys to growth. Every project is an opportunity to learn something new and build better solutions.
